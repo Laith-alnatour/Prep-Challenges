@@ -7,7 +7,7 @@ const {
 } = require("./../code-challenges/challenges-03");
 
 describe("Challenge03", () => {
-  test("CV-Formatter", () => {
+  test.skip("CV-Formatter", () => {
     let first_Cv_Sample = [
       {
         firstName: "Jason",
